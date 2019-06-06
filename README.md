@@ -80,6 +80,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Face Digital](https://facedigital.com.br/) | Joinville, SC | Redux, React Native, Redux Thunk, Next.js
 [Faicon](https://www.faicon.com/) | Rio de Janeiro, SP | MobX, JSS, Jest, Webpack, Storybook
 [Feedback House](https://feedback.house/) | São Paulo, SP | GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
+[Ferreri](https://ferreri.co/) | São Paulo, SP | Redux, Ducks, CSS Modules, Webpack, React Native
 [Fortes Tecnologia em Sistemas](https://www.fortestecnologia.com.br) | Fortaleza, CE | Redux, Router
 [Fractal Tecnologia](http://www.fractaltecnologia.com.br) | João Pessoa, PB | Redux, Redux-Thunk, Jest
 [Fred](https://fredbots.com/) | São Paulo, SP | Redux, Redux Thunk
